@@ -1,4 +1,4 @@
-import ContactForm from "../components/Contactform.jsx";
+import ContactForm from "../components/ContactForm";
 import profile from "../data/profile";
 
 import {
